@@ -39,7 +39,7 @@ def testMethod1(**context):
     else col,
     axis=0)
 
-    print(tabela)
+    print('Shabi')
 
 def testMethod2(**context):
     print('Hasani')
