@@ -14,10 +14,7 @@ conn.autocommit = True
 # Creating a cursor object
 cursor = conn.cursor()
 
-# query to import data from given csv
-sql = '''copy demo FROM 
-        'C://Users
-    //Aralytiks//Desktop//pythonProject1//Sample100.csv' 
+
         DELIMITER ',' CSV HEADER'''
 
 # executing above query
