@@ -9,7 +9,7 @@ from datetime import date
 
 
 host, port = 'ftp-gfm.aronova.com', 22
-username, password = 'TP24', 'Kp66CLL!h8'
+username, password = 'TP24', 'xxxxxxxx'
 
 transport = paramiko.Transport(host,port)
 
