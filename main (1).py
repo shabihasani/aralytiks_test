@@ -1,7 +1,7 @@
 from numpy import delete
 import pandas as pd
 from sqlalchemy import create_engine
-import vba_extract
+#import vba_extract
 from os import remove
 
 FileName = 'raporti'
